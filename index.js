@@ -1,2 +1,2 @@
-const b = 123;
+const c = 123;
 console.log(b);
