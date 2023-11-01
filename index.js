@@ -1,2 +1,3 @@
-const c = 123;
-console.log(b);
+const a = 1;
+const b = 2
+console.log(a + b);
